@@ -315,7 +315,7 @@ RESULT_STR_ALL = (
     "➲Seeders: {Seeders} || ➲Leechers: {Leechers}"
 )
 
-TORRENT_API = 'https://api.linkstore.eu.org/api'
+TORRENT_API = 'https://torrent-api.dragonpower84.repl.co'
 
 torrents_dict = {
     '1337x': {'source': f"{TORRENT_API}/1337x/", 'result_str': RESULT_STR_1337},
